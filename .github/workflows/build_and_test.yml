@@ -44,8 +44,8 @@ jobs:
       uses: einaregilsson/beanstalk-deploy@v20
       with:
 
-        aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws_access_key: "ASIAQ6Z3UQFZG34IXJLU"
+        aws_secret_key: "SzuWjicdcboijBP2iwJLg+JOQHLRcDGqw29VrKAo"
 
         application_name: To-do
         environment_name: e-ndhtumhfqr
