@@ -45,7 +45,7 @@ jobs:
       with:
 
         aws_access_key: "ASIAQ6Z3UQFZG34IXJLU"
-        aws_secret_key: "SzuWjicdcboijBP2iwJLgJOQHLRcDGqw29VrKAo"
+        aws_secret_key: "ASIAQ6Z3UQFZG34IXJLU"
 
         application_name: To-do
         environment_name: e-ndhtumhfqr
